@@ -5,6 +5,16 @@ Microsoft Learn Student Clubs is a technical society which is dedicated to eleva
 
 <br/>
 
+## Here's what we do
+TODO
+
+<br/>
+
+## Check Out our Projects too!
+TODO
+
+<br/>
+
 <img src='https://user-images.githubusercontent.com/64774148/150962943-d0dda132-1937-461a-99dc-fba4c6ef732b.png'></img>
 
 <a href="mailto:mlscvitpune@gmail.com"> ![Email](https://img.shields.io/badge/Email%20Us-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
