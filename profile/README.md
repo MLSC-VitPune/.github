@@ -4,6 +4,7 @@
 Microsoft Learn Student Clubs is a technical society which is dedicated to elevate the coding culture of Vishwakarma Institute of Technology. We conduct events amongst our college students and beyond with the objective of providing students with events to help develop their coding skills, familiarity with new technology and to compete against one another to showcase their skills. We do this by organizing numerous technology driven events including tech meetups and Hackathons and promoting team building.
 
 <br/>
+<br/>
 
 <img src='https://user-images.githubusercontent.com/64774148/150962943-d0dda132-1937-461a-99dc-fba4c6ef732b.png'></img>
 
